@@ -1,0 +1,20 @@
+div.kreis {
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  float: right;
+  margin-left: 5px;
+  border: 1px solid grey;
+}
+
+div.farbe-green {
+  background-color: green;
+}
+
+div.farbe-yellow {
+  background-color: yellow;
+}
+
+div.farbe-red {
+  background-color: red;
+}
